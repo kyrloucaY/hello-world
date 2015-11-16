@@ -1,1 +1,3 @@
 This is from master
+changed by fixed 1
+changed by fixed 2
